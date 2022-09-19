@@ -17,7 +17,8 @@ website:
 format:
   html:
     theme: flatly
-    font-family: sans-serif
+    font-family: 'Helvetica'
+    fontsize: 1.3em
     css: styles.css
     toc: true
 

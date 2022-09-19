@@ -3,4 +3,4 @@ title: ""
 format: html
 ---
 
-[Here](https://speciesinsite.github.io/) you can find my and [Max Lindmark](https://maxlindmark.github.io/) blog about R, Ecology, Species Distribution Models, and all that.
+[Here](https://speciesinsite.github.io/) you can find a blog that I and [Max Lindmark](https://maxlindmark.github.io/) have together. It's about R, Ecology, Species Distribution Models, and all that.
