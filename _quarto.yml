@@ -16,9 +16,7 @@ website:
 
 format:
   html:
-    theme: 
-     light: flatly
-     dark: darkly
+    theme: flatly
     font-family: sans-serif
     css: styles.css
     toc: true
