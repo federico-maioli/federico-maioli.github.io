@@ -7,11 +7,11 @@ website:
     pinned: true
     left:
       - href: index.qmd
-        text: About
+        text: 'About'
       - href: about.qmd
-        text: CV
+        text: 'CV'
       - href: blog.qmd
-        text: Blog
+        text: 'Blog'
 
 
 format:
