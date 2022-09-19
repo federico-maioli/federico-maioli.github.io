@@ -1,6 +1,6 @@
 ---
 title: "Federico Maioli"
-subtitle: 'PhD student in Marine Ecology \ University of Bologna -- Department of Biological, Geological, and Environmental Sciences'
+subtitle: 'PhD student in Marine Ecology \ University of Bologna'
 image: profile.jpg
 about:
   template: trestles
