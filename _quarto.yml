@@ -16,9 +16,11 @@ website:
 
 format:
   html:
+    page-layout: full 
     theme: flatly
-    font-family: 'Helvetica'
+    mainfont: 'Helvetica'
     fontsize: 1.3em
+    linestretch: 1.3
     css: styles.css
     toc: true
 
