@@ -1,37 +1,25 @@
 ---
-title: ""
+title: "Federico Maioli"
+subtitle: 'PhD student in Marine Ecology \ University of Bologna'
+image: profile.jpg
+about:
+  template: trestles
+  image-width: 20em
+  image-shape: round
+  links:
+    - text: Twitter
+      icon: twitter
+      url: "https://twitter.com/fredericomaioli"
+    - text: GitHub
+      icon: github
+      url: "https://github.com/federico-maioli"
+    - text: Email
+      url: "mailto:f.maioli@unibo.it"
+comments: false
 ---
 
-## Education
+Hi there! My name is Federico Maioli. I am a quantitative marine ecologist born in Parma, a city in the Italian hinterland equidistant from the east coast and the west coast, perhaps one of the furthest cities from the sea in Italy. The climate is humid, but you can eat well.
 
-University of Bologna \| PhD in Marine Ecology \| ongoing
+I study and model the spatio-temporal distribution of marine species, mainly elasmobranchs. I am an enthusiastic user of [Hmsc](https://github.com/hmsc-r/HMSC) and [sdmTMB](https://pbs-assess.github.io/sdmTMB/index.html) and all kind of species distribution models.
 
-University of Bologna \| Msc in Marine Biology (with honors) \| 2019
-
-University of Parma \| BSc in Natural and Environmental Sciences \| 2017
-
-## Experience
-
-Swedish University of Agricultural Sciences -- Department of Aquatic Resources \| Data analyst \| Aug. 2019 - Oct. 2020
-
-## Publications
-
-Incoming 😜
-
-## Technical Reports
-
-RCG NA NS&EA RCG Baltic 2020. Regional Coordination Group North Atlantic, North Sea & Eastern Arctic and Regional Coordination Group Baltic. 2020. Part I Report, 110 pgs. Part II Decisions and Recommendations, 7 pgs. Part III, Intersessional Subgroup (ISSG) 2019-2020 Reports, 154 pgs. <https://datacollection.jrc.ec.europa.eu/docs/rcg> \| 2020
-
-ICES. 2019. Report on eastern Baltic cod bycatch in non-targeted fisheries, mixing with western Baltic cod in SD24, and stock situation in SDs 27-32 (Ad hoc). ICES Scientific Reports. 1:76. 69 pp. <http://doi.org/10.17895/ices.pub.5635> \| 2019
-
-## Awards and scolarships
-
-"Best presentation" at the Fourth ICES PICES Early Career Scientist Conference 2022 in St. John's, Newfoundland, Canada \| 2022
-
-Erasmus Plus scolarship \| Swedish University of Agricultural Sciences \| Jan. 2019 - Jun. 2019
-
-Erasmus Plus scolarship \| University of Valencia \| Sep. 2015 - Feb. 2016
-
-## Talks
-
-"Influence of ecological traits on spatio-temporal dynamics of an elasmobranch community in a heavily exploited basin" at the Fourth ICES PICES Early Career Scientist Conference 2022 in St. John's, New- foundland, Canada. \| 2022
+When not modelling species distribution, I enjoy spending time outdoor, scuba diving, free-diving, and photographing wildlife.

@@ -6,9 +6,9 @@ website:
   navbar:
     pinned: true
     left:
-      - href: index.qmd
-        text: 'About'
       - href: about.qmd
+        text: 'About'
+      - href: cv.qmd
         text: 'CV'
       - href: blog.qmd
         text: 'Blog'
