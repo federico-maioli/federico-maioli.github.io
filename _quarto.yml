@@ -3,6 +3,8 @@ project:
   output-dir: docs
 website:
   title: "Federico Maioli"
+  twitter-card: 
+    creator: "@fredericomaioli"
   navbar:
     pinned: true
     left:
